@@ -1,7 +1,7 @@
 ## Netlib 自动登录保活脚本
 这是一个用于自动登录 Netlib 网站以保持账户活跃的脚本，配合 GitHub Actions 实现自动定时执行。
 
-注册地址：https://www.netlib.re
+ip6.arpa域名注册地址：https://www.netlib.re
 
 视频教程地址：https://youtu.be/7laVmEfgC9o
 
